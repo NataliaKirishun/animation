@@ -1,0 +1,18 @@
+@keyframes coloring {
+    from {
+        background-color: #3B4EF0;
+        color:#F8D932;
+    }
+    30% {
+        background-color: #C0FF5A;
+        color:#46A22B;
+    }
+    60% {
+        background-color: #DA0012;
+        color:#9D0046;
+    }
+    to{
+        background-color: #6C0086;
+        color:#C00031;
+    }
+}

@@ -1,0 +1,11 @@
+@keyframes mig {
+    from {
+        background-color:var(--first-color);
+        }
+    50% {
+        background-color:var(--second-color);
+    }
+    to {
+        background-color:var(--third-color);
+    }
+}
